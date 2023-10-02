@@ -4,6 +4,8 @@ DIY Makecode Arcade board with RP2040 Pico
 
 Here is what I got after playing Pico with Arcade for a few days. Hope this helped.
 
+ ![st7735](/arcade-pico-st7735.jpg)
+ ![9341spi](/arcade-pico-9341spi.jpg)
 ## Good news:
 
 * work with both Pico & PicoW
