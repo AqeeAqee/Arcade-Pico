@@ -27,7 +27,10 @@ Here is what I got after playing Pico with Arcade for a few days. Hope this help
 ## How to do:
 
 * update config (once):
-    * Download my configuration v01: https://github.com/AqeeAqee/Arcade-Pico/blob/main/Arcade-Rp2040Pico_Aqee_v01.uf2
+    * Download my configuration v01:
+         * 1.44" st7735 https://github.com/AqeeAqee/Arcade-Pico/blob/main/Arcade-Rp2040Pico_Aqee_v01.uf2
+           or
+         * 2.8/3.2" 9341spi: https://github.com/AqeeAqee/Arcade-Pico/blob/main/Arcade-Rp2040Pico_9341spi_Aqee_v01.uf2
     * holding bootsel btn and re-plug Pico into usb port of computer.
     * Drag&drop this config file into Pico drive.
 * download game:
